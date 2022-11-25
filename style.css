@@ -1,0 +1,112 @@
+/*-----PRESET--------*/
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+body {
+    background-color: rgb(23, 56, 85);
+    min-height: 100vh;
+}
+
+h1 {
+    font-size: 3rem;
+}
+
+h2 {
+    font-size: 2rem;
+}
+
+h3 {
+    font-size: 1.25rem;
+}
+
+/*--20px--*/
+h4 {
+    font-size: 0.875rem;
+}
+
+ul {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+
+/*-----PROJETO--------*/
+
+.weather-container {
+    border-radius: 20px;
+    background-color: #fff;
+    width: 250px;
+    height: 350px;
+    margin: 50px auto;
+    display: flex;
+    flex-direction: column;
+}
+
+h3 {
+    padding: 10px;
+    text-align: center;
+    cursor: default;
+
+}
+
+.notification {
+    border: 1px dotted red;
+    height: 40px;
+    background-color: rgba(248, 120, 120, 0.555);
+    display: none;
+    text-align: center;
+    font-weight: bold;
+    line-height: 40px;
+}
+
+
+.container {
+    background-color: aliceblue;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+
+}
+
+.temp-value {
+    background-color: rgba(213, 236, 255, 0.637);
+    text-align: center;
+    width: 100%;
+    font-size: 25px;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+.temp-value p:hover {
+    scale: 1.1;
+    transition: 0.3s;
+}
+
+.temp-value:hover {
+    background-color: rgb(177, 220, 255);
+    transition: 0.3s;
+}
+
+.temp-description {
+    font-weight: bold;
+    cursor: default;
+    text-transform: capitalize;
+}
+
+.location {
+    margin-bottom: 15px;
+    cursor: default;
+
+}
