@@ -5,7 +5,7 @@ I also removed the API key from the code. So if you want it to run you'll need t
 <em>I found this project on Youtube from Code Explained. The credit belongs to them, this was only made for practice purposes.<br>
 Code Explained repo : https://github.com/CodeExplainedRepo/Weather-App-JavaScript<br>
 The icons were made by Ashley Jager - https://github.com/manifestinteractive/weather-underground-icons<br>
-The API provider is http://www.OpenWeatherMap.org </em>
+The API provider is http://www.OpenWeatherMap.org </em><br><br>
 
 <img src='teste.gif'/>
 
