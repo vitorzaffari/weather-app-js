@@ -2,6 +2,13 @@
 <h1>:us:</h1>  Weather App made with vanilla JS that grabs the users' geolocation and displays current weather details. It also contains a Celsius to Fahrenheit converter.<br><br>
 This was the first time I used an IPA in a project. Fortunately, it wasn't that complicated to understand :D<br><br>
 <em>I found this project on Youtube from Code Explained. The credit belongs to them, this was only made for practice purposes.</em><br><br>
+
+Code Explained repo : https://github.com/CodeExplainedRepo/Weather-App-JavaScript
+
+The icons were made by Ashley Jager - https://github.com/manifestinteractive/weather-underground-icons
+
+The API provider is http://www.OpenWeatherMap.org
+
 <img src='teste.gif'/>
 
 <h1><span>&#x1f1e7;&#x1f1f7;</span></h1>
